@@ -1,0 +1,6 @@
+{
+  "IDX.agenticWorkspace": true,
+  "IDX.aI.showChatInEditorTab": true,
+  "workbench.experimental.cloudChanges.partialMatches.enabled": true,
+  "git.autofetch": "all"
+}

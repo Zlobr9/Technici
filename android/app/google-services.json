@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "687249603592",
+    "project_id": "technici-5f45d",
+    "storage_bucket": "technici-5f45d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687249603592:android:75c5c51535ad67376c65bd",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMxjWZXypPjQM6ic0ug8mcHIK7uXNGwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687249603592:android:ce5ba77f2f8b36246c65bd",
+        "android_client_info": {
+          "package_name": "com.kuba.itapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMxjWZXypPjQM6ic0ug8mcHIK7uXNGwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

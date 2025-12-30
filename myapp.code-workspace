@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"IDX.agenticWorkspace": true,
+		"IDX.aI.showChatInEditorTab": true,
+		"workbench.experimental.cloudChanges.partialMatches.enabled": true
+	}
+}
